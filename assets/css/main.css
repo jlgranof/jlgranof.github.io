@@ -4109,3 +4109,8 @@ input, select, textarea {
 					}
 
 	}
+
+.project_pictures {
+	height: 400px;
+	width: 475px;
+}
