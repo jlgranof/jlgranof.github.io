@@ -7,4 +7,5 @@
 i:hover {
 	color: blue;
 	transform: rotate(30deg);
+	margin-bottom: 5px;
 }
