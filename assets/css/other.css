@@ -4,8 +4,9 @@
 	margin-bottom: 20%;
 }
 
+
 i:hover {
-	color: red;
+	color: #002f47;
 	transform: rotate(30deg);
 	margin-bottom: 5px;
 }
