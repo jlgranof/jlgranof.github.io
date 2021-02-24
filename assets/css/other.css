@@ -5,7 +5,7 @@
 }
 
 i:hover {
-	color: blue;
+	color: red;
 	transform: rotate(30deg);
 	margin-bottom: 5px;
 }
