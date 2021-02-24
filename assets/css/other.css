@@ -6,6 +6,6 @@
 
 i:hover {
 	color: blue;
-	transform: rotate(30deg);
+	transform: rotate(45deg);
 	margin-bottom: 5px;
 }
